@@ -11,10 +11,3 @@ He has more than 4 years experience with ReactJS, KnockoutJS technology and JS p
 
 He lives in Kochi, India with his wife and their 5 children.
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
