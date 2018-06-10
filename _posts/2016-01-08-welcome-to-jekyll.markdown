@@ -8,5 +8,5 @@ Jithin Babychan is a Senior Web Developer with more than 4 years experience in F
 
 Technologies: ReactJS, KnockoutJS, Accelerated Mobile Pages (AMP), jQuery, JavaScript, HTML5, Cascading Style Sheets (CSS), jQuery UI, Regex, Git
 
-Email: jithinbabychan@gmail.com
+Email: jithinbabychan@gmail.com, 
 Location: Kochi, India
